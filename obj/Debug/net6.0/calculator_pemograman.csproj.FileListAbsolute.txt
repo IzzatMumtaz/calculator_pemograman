@@ -1,0 +1,15 @@
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\calculator_pemograman.exe
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\calculator_pemograman.deps.json
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\calculator_pemograman.runtimeconfig.json
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\calculator_pemograman.dll
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\ref\calculator_pemograman.dll
+D:\25.61.0292\pemograman\calculator_pemograman\bin\Debug\net6.0\calculator_pemograman.pdb
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.csproj.AssemblyReference.cache
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.AssemblyInfoInputs.cache
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.AssemblyInfo.cs
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.csproj.CoreCompileInputs.cache
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.dll
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\ref\calculator_pemograman.dll
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.pdb
+D:\25.61.0292\pemograman\calculator_pemograman\obj\Debug\net6.0\calculator_pemograman.genruntimeconfig.cache
